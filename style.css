@@ -1,0 +1,19 @@
+body {
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgb(90, 0, 0);
+}
+
+.seta.esquerda {
+    left: 10px; /* Ajuste a posição da seta esquerda */
+}
+
+.seta.direita {
+    right: 10px; /* Ajuste a posição da seta direita */
+}
+
+.esticadinho {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: 1px solid #fafafa;
+}
